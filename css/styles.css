@@ -22,8 +22,8 @@
 
 .graybox {
 	background-color: #b3afaf;
-	display: block;
-	margin: 15px;
+/*	display: block;
+	margin: 15px;*/
 }
 
 .menu-description {
@@ -62,10 +62,6 @@
 @media (max-width: 768px) {
 	#navbar-name {
 		height: 75px;
-	}
-
-	.graybox {
-		margin: 50px;
 	}
 
 } 
